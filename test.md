@@ -3,7 +3,7 @@ title: "Kimberley Elcess"
 subtitle: "Data Science Project Portfolio"
 date: "April 28, 2017"
 output: 
-  html_document:
+  github_document:
     toc: true
     tocdepth: 2
 ---
