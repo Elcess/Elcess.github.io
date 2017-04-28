@@ -8,10 +8,6 @@ output:
     tocdepth: 2
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
-```
-
 ## Introduction
 
 Kimberley Elcess is a data scientist with a background in materials science and
@@ -21,7 +17,7 @@ Specifically, Kimberley employs statistics, machine learning, and visualization
 to solve problems and generate insight in entrepreneurial environments using
 Excel, R, and Bayesian inference.
 
-##Portfolio Introduction
+## Portfolio Introduction
 
 This data science project portfolio contains 3 projects that cover the full
 spectrum of the data science process.
@@ -72,7 +68,7 @@ To explore the relationship between economic factors and birth rate, chart birth
 rate and economic indicators for several regions over a time period with
 changing economic conditions.
 
-###Tidy
+### Tidy
 
 #### Visualizing US Birth Rate from 1998 to 2015
 
